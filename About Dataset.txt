@@ -1,0 +1,17 @@
+About Dataset
+
+ Overview:
+
+ This project focuses on using a dataset containing information about grocery sales at a Supermart. The dataset includes columns such as 
+ 
+Order ID, Customer Name, Category, Sub Category, City, Order Date, Region, Sales, Discount,
+
+ Profit, State, month_no, Month, and year. We’ll explore this data, perform feature engineering, and build a machine learning model to predict sales or profit.
+
+
+ This is a fictional dataset created for helping the data analysts to practice exploratory data analysis and 
+
+data visualization.The dataset has data on orders placed by customers on a grocery delivery application.
+ 
+The dataset is designed with an assumption that the orders are placed by customers living in the state of Tamil
+ Nadu, India.
